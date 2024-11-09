@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/NpTf9SP/glasses-lie-laptop-reflecting-light-from-screen-dark.jpg",
+      "title": "Exploring the Future of AI in Daily Life",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co.com/48S1VJz/smiley-woman-holding-camera-leaf.jpg",
+      "posted_date": "2024-10-12",
+      "reading_time": 7,
+      "hashtags": ["#AI", "#FutureTech", "#Innovation", "#DailyLife"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/pQzjKjS/education-modern-lifestyle-college-concept-attractive-carefree-redhead-female-student-sitting-wi.jpg",
+      "title": "Top 10 Tips for Learning to Code",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co.com/bB1sNf0/elegant-old-man-sunny-autumn-park.jpg",
+      "posted_date": "2024-09-25",
+      "reading_time": 5,
+      "hashtags": ["#Coding", "#Programming", "#Education", "#Tips"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/7JVh2gJ/coffee-laptop-copy-space-1.jpg",
+      "title": "The Rise of Electric Vehicles in 2024",
+      "author": "Emily Green",
+      "author_img": "https://i.ibb.co.com/f87J59W/tourist-with-loupe.jpg",
+      "posted_date": "2024-08-15",
+      "reading_time": 6,
+      "hashtags": ["#ElectricVehicles", "#Sustainability", "#2024", "#GreenTech"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/846Sxxd/old-camera-notebook-laptop-with-blue-pencil-cup-cappuccino-white-background.jpg",
+      "title": "Mindfulness Practices for Busy Professionals",
+      "author": "Alex Brown",
+      "author_img": "https://i.ibb.co.com/Tbmx9hx/woman-with-binoculars-waterfront.jpg",
+      "posted_date": "2024-07-22",
+      "reading_time": 8,
+      "hashtags": ["#Mindfulness", "#MentalHealth", "#WorkLifeBalance", "#Wellbeing"]
+    }
+  ]
+  
